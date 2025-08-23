@@ -41,7 +41,7 @@ This project analyzes home insurance pricing using machine learning, transitioni
 
 ## Files
 
-- `None` - Main analysis notebook (real data)
+- `home_insurance_california_real_data.ipynb` - Main analysis notebook (real data)
 - `real_insurance_model.pkl` - Trained model on real data
 - `processed_real_data.csv` - Cleaned real dataset
 - `insurance.csv` - Original real insurance data
